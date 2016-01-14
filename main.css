@@ -4,10 +4,12 @@
   font-weight: bold;
   padding: 20px 10px;
   text-transform: uppercase;
+  margin: 20px;
 }
 
 .nav li {
   display: inline;
+  text-align: auto;
 }
 
 .jumbotron {
@@ -64,7 +66,7 @@
     margin-bottom: 13px;
 }
 
-.interests h1 {
+.interests h1 h3 p {
   text-align: center;
   color: #393c3d;
   font-family: 'Shift', sans-serif;
