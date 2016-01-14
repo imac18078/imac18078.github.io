@@ -32,6 +32,7 @@
   font-size: 20px;
   color: #fff;
   padding-top: 20px;
+  font-weight: bold;
 }
 
 .learn-more {
@@ -61,4 +62,10 @@
 .neighborhood-guides p {
     font-size: 15px;
     margin-bottom: 13px;
+}
+
+.neighborhood-guides h1 {
+  text-align: center;
+  color: #393c3d;
+  font-family: 'Shift', sans-serif;
 }
