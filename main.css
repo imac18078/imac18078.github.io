@@ -49,23 +49,24 @@
   color: #00b0ff;
 }
 
-.neighborhood-guides {
+.aboutme {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
 
-.neighborhood-guides h2 {
+.aboutme h2 {
     color: #393c3d;
     font-size: 24px;
 }
 
-.neighborhood-guides p {
+.aboutme p {
     font-size: 15px;
     margin-bottom: 13px;
 }
 
-.neighborhood-guides h1 {
+.interests h1 h3 p {
   text-align: center;
   color: #393c3d;
   font-family: 'Shift', sans-serif;
 }
+
