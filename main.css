@@ -4,12 +4,10 @@
   font-weight: bold;
   text-transform: uppercase;
   padding-right: 30px;
-  position-top: 20px;
 }
 
 .nav li {
   display: inline;
-  text-align: auto;
 }
 
 .nav .navinterests {
