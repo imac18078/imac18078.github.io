@@ -82,9 +82,10 @@
   margin-top: 5px;
 }
 
-.interests h3 {
+.interests p {
   text-align: center;
   color: white;
   font-family: 'Shift', sans-serif;
+  font-size: 16px;
 }
 
