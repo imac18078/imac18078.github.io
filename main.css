@@ -71,19 +71,19 @@
 
 .interests h1 {
   text-align: center;
+  color: white;
+  font-family: 'Shift', sans-serif;
+}
+
+.interests h2 {
+  text-align: center;
   color: #393c3d;
   font-family: 'Shift', sans-serif;
 }
 
 .interests h3 {
   text-align: center;
-  color: #393c3d;
-  font-family: 'Shift', sans-serif;
-}
-
-.interests p {
-  text-align: center;
-  color: #393c3d;
+  color: white;
   font-family: 'Shift', sans-serif;
 }
 
