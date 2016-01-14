@@ -9,14 +9,17 @@
   display: inline;
 }
 
-.nav .navindex {
+.nav .navindex a {
   color: #5a5a5a;
 }
 
 .nav .navinterests {
-  color: black;
   background-color: #00ACFF;
   border-bottom: 1px solid black;
+}
+
+.nav .navinterests a {
+  color: white;
 }
 
 .jumbotron {
