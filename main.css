@@ -4,7 +4,6 @@
   font-weight: bold;
   padding: 20px 10px;
   text-transform: uppercase;
-  margin: 20px;
 }
 
 .nav li {
@@ -66,12 +65,25 @@
     margin-bottom: 13px;
 }
 
-.interests h1 h3 p {
+.interests {
+  background-color: #4478F9;
+}
+
+.interests h1 {
   text-align: center;
   color: #393c3d;
   font-family: 'Shift', sans-serif;
 }
 
-.interests h1 {
-  padding-top: 0px;
+.interests h3 {
+  text-align: center;
+  color: #393c3d;
+  font-family: 'Shift', sans-serif;
 }
+
+.interests p {
+  text-align: center;
+  color: #393c3d;
+  font-family: 'Shift', sans-serif;
+}
+
