@@ -12,14 +12,6 @@
   text-align: auto;
 }
 
-.nav .left {
-  vertical-align: left;
-}
-
-.nav .right {
-  float: right;
-}
-
 .jumbotron {
   background-image:url('http://amiloszportraits.com/wp-content/uploads/2015/12/new-york-city-at-night-new-york-city-night-2048x1152.jpg');
   height: 500px;
