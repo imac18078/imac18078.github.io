@@ -11,13 +11,9 @@
   display: inline;
 }
 
-.nav {
-  background-color: #00ACFF;
-  border-bottom: 1px solid black;
-}
 
-.sorry h1 {
+.crying h1 {
   text-align: center;
-  color: white;
+  color: #393c3d;
   font-family: 'Shift', sans-serif;
 }
