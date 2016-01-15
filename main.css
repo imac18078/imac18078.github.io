@@ -4,23 +4,11 @@
   text-transform: uppercase;
   padding-right: 15px;
   padding-left: 15px;
+  color: #5a5a5a;
 }
 
 .nav li {
   display: inline;
-}
-
-.nav .navindex a {
-  color: #5a5a5a;
-}
-
-.nav .navinterests {
-  background-color: #00ACFF;
-  border-bottom: 1px solid black;
-}
-
-.nav .navinterests a {
-  color: white;
 }
 
 .jumbotron {
