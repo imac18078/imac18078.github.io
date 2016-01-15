@@ -1,0 +1,40 @@
+.nav a {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-right: 15px;
+  color: white;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav {
+  background-color: #972086;
+  border-bottom: 1px solid black;
+}
+
+.games {
+  background-color: #972086;
+}
+
+.games h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Shift', sans-serif;
+}
+
+.games h2 {
+  text-align: center;
+  color: #393c3d;
+  font-family: 'Shift', sans-serif;
+  margin-top: 5px;
+}
+
+.games p {
+  text-align: center;
+  color: white;
+  font-family: 'Shift', sans-serif;
+  font-size: 16px;
+}
