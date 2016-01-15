@@ -6,7 +6,7 @@ if (userResponse === "no" || userResponse === "n") {
 	window.location = "../HTML/sorry.html";
 }
 else if (userResponse === "yes" || userResponse === "y") {
-	break out;
+	window.location = "../HTML/gamesandapps.html"
 }
 else {
 	window.location = "../HTML/worthy.html";
