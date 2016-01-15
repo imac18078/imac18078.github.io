@@ -4,7 +4,7 @@ if (userResponse === "no" || userResponse === "n") {
 	window.location = "../HTML/sorry.html";
 }
 else if (userResponse === "yes" || userResponse === "y") {
-	return;
+	continue;
 }
 else {
 	window.location = "../HTML/worthy.html";
