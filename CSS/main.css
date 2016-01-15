@@ -1,0 +1,91 @@
+.nav a {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #5a5a5a;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://amiloszportraits.com/wp-content/uploads/2015/12/new-york-city-at-night-new-york-city-night-2048x1152.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 40px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.aboutme {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.aboutme h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.aboutme p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.interests {
+  background-color: #00ACFF;
+}
+
+.interests h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Shift', sans-serif;
+}
+
+.interests h2 {
+  text-align: center;
+  color: #393c3d;
+  font-family: 'Shift', sans-serif;
+  margin-top: 5px;
+}
+
+.interests p {
+  text-align: center;
+  color: white;
+  font-family: 'Shift', sans-serif;
+  font-size: 16px;
+}
+
