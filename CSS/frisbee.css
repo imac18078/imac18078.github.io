@@ -11,8 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('https://www.facebook.com/photo.php?fbid=612872566476&set=a.612855006666.2118945.17507833&type=3&theater
-');
+  background-image: href = "../JPG/frisbee.jpg";
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
