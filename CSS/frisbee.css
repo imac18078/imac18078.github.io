@@ -1,0 +1,37 @@
+.nav a {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-right: 15px;
+  color: #5a5a5a;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('https://www.facebook.com/photo.php?fbid=612872566476&set=a.612855006666.2118945.17507833&type=3&theater
+');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 40px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  padding-top: 20px;
+  font-weight: bold;
+}
