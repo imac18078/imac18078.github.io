@@ -10,6 +10,10 @@
   display: inline;
 }
 
+.nav {
+  border-bottom: 1px solid black;
+}
+
 .title h1 {
   color: black;
   font-size: 40px;  
