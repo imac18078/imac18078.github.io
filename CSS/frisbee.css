@@ -11,8 +11,8 @@
 }
 
 .jumbotron {
-  background-image: url('../IMG/smallfrisbee.jpg');
-  height: 500px;
+  background-image:url("../IMG/frisbee.jpg");
+  height: 1000px;
   background-repeat: no-repeat;
   background-size: cover;
 }
