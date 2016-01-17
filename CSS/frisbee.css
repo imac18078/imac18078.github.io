@@ -10,25 +10,14 @@
   display: inline;
 }
 
-.jumbotron {
-  background-image:url("../IMG/frisbee.jpg");
-  height: 800px;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.jumbotron .container {
-  position: relative;
-}
-
-.jumbotron h1 {
+.title h1 {
   color: black;
   font-size: 40px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
 
-.jumbotron p {
+.title p {
   font-size: 20px;
   color: black;
   padding-top: 20px;
