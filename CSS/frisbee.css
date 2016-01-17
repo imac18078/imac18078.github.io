@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background: url('../IMG/frisbee.jpg');
+  background-image: url('../IMG/frisbee.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,7 +22,7 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
+  color: #5a5a5a;
   font-size: 40px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -30,7 +30,7 @@
 
 .jumbotron p {
   font-size: 20px;
-  color: #fff;
+  color: #5a5a5a;
   padding-top: 20px;
   font-weight: bold;
 }
