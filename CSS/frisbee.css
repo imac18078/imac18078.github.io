@@ -26,6 +26,10 @@
   position: relative;
 }
 
-title a {
+.title a {
 	color: blue;
+}
+
+#frisbee {
+	position: bottom;
 }
