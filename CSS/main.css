@@ -1,23 +1,7 @@
 .header {
-  height: 50px;
+  height: 35px;
   background-color: black;
   color: white;
-}
-
-.header a {
-  font-size: 16px;
-  font-weight: bold;
-  text-transform: uppercase;
-  padding-right: 15px;
-  color: white;
-}
-
-.header li {
-  display: inline;
-}
-
-.btn {
-
 }
 
 .icon-menu {
@@ -26,16 +10,25 @@
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
-  padding-bottom: 25px;
   padding-left: 25px;
-  padding-top: 25px;
-  vertical-align: middle;
-  text-decoration: none;
+  padding-top: 5px;
   text-transform: uppercase;
 }
 
 .icon-menu i {
   margin-right: 5px;
+}
+
+.dropdown-menu {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 1 px solid black;
+  margin-top: 5px;
+  min-width: 105px;
+  display: none;
+  top: 20px;
+  left: 25px;
 }
 
 .jumbotron {
