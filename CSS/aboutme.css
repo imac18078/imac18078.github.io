@@ -1,0 +1,62 @@
+.header {
+  height: 35px;
+  background-color: black;
+  color: white;
+}
+
+.icon-menu {
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding-left: 25px;
+  padding-top: 5px;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
+}
+
+.dropdown-menu {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 1 px solid black;
+  margin-top: 5px;
+  min-width: 105px;
+  display: none;
+  top: 20px;
+  left: 25px;
+}
+
+.content p {
+  text-align: center;
+  padding: 4px;
+}
+
+.content img {
+  height: 300px;
+  border: 1px solid black;
+}
+
+.footer {
+  height: 55px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
+
+.footer img {
+  height: 40px;
+  padding: 5px 0px 5px 0px;
+}
+
+.footer p {
+  padding-left: 25px;
+}
+
+.footer .row {
+  padding-left: 40px;
+}
