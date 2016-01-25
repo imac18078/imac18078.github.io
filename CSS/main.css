@@ -86,4 +86,22 @@
     margin-bottom: 13px;
 }
 
+.footer {
+  height: 55px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+}
 
+.footer img {
+  height: 40px;
+  padding: 5px 0px 5px 0px;
+}
+
+.footer p {
+  padding-left: 25px;
+}
+
+.footer .row {
+  padding-left: 40px;
+}
